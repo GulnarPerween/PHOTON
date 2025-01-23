@@ -20,7 +20,7 @@ public class PROGRAMS_3 {
 	public void method1() throws InterruptedException
 	{
 		
-	// WebDriver driver=new ChromeDriver();  
+	WebDriver driver=new ChromeDriver();  
 	//WebDriver driver = new FirefoxDriver();  
 	WebDriver driver = new EdgeDriver();
 	
