@@ -4,7 +4,7 @@ public class PROGRAM2 {
 
 	public static void main(String args[])
 	{
-		String str ="qweddre@#$112";
+		String str ="qwed";
 		String alpha="",digit="";
 		for(int i=0;i<str.length();i++)
 		{
